@@ -1,0 +1,10 @@
+{
+  "imgurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+  "imgupload": "airplane.png",
+  "imguploadjpg":"download.jpg",
+  "invalidimgurl":"lll",
+  "invalidimgupload":"text.txt",
+  "wrongimg":"boat.png",
+  "index":0,
+  "txtsearch":"Cars"
+}

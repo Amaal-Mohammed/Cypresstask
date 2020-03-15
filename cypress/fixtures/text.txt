@@ -1,0 +1,7 @@
+Summarized UI/UX Review:
+* Implement validation Message in Login page better not be done as a pop up browser 
+* "Start" button should change to be "Sign in" or "Login"
+* Word app.. in the app key field should be "app key"
+* Lots of blank area 
+* home , about, blog should be Capital : "Home, About, Blog"
+* Better for Logout to be at upper right of the page
